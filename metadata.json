@@ -1,0 +1,6 @@
+{
+  "name": "Strata Run Club",
+  "description": "International running club community platform with Cloud SQL persistence, multi-language support (EN/PT/ES/FR), and interactive Google Maps route planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
